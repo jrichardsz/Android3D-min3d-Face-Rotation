@@ -2,6 +2,7 @@
 
 > forked from ImDroidGuy/Android3D-min3d-Example
 
+<img src="home.gif?raw=true" width="150">
 
 # Example from
 [http://ubuntuanakramli.blogspot.in/2015/10/tutorial-on-min3d-framework-using.html](http://ubuntuanakramli.blogspot.in/2015/10/tutorial-on-min3d-framework-using.html)
